@@ -18,7 +18,6 @@ class Program
     static void Main()
     {
         double[] numbers = { 25, -20, 20, 10, 0 };
-
         foreach (double value in numbers)
         {
             MakeCircle(value);
